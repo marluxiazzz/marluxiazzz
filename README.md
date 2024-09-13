@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey! My name is Tierra Haynes. I recently began programming to further both my education in technology, and keep up with the forever evolving world of technology.
 
+I'm currently working on understanding the world of python, as well as studying the different strings and functions. I learn something new everytime, and I'm currently learning how to make my coding look neat, and work efficiently.
+
+
+You can reach me here: tierrakhaynes@gmail.com , 
 <!--
 **marluxiazzz/marluxiazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
