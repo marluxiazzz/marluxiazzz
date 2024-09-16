@@ -1,7 +1,7 @@
-# Hey! My name is Tierra Haynes. I recently began programming to further both my education in technology, and keep up with the forever evolving world of technology.
+# Hey! Welcome to my GitHub page!
 
 ##  A little about me.. 
-> I first started in a medical class, lost on what I wanted to do. All my life people had been asking me what I wanted to be when I grew up, and I never had a definitive answer. It wasn't until I began being more active with technology that I became interested in programming. I always had to have my older sister help me with things relating to technology, so I decided to finally learn so I can be independent when it comess to technology.
+> My name is Tierra Haynes. I recently began programming to further both my education in technology, and keep up with the forever evolving world of technology. I first started in a medical class, lost on what I wanted to do. All my life people had been asking me what I wanted to be when I grew up, and I never had a definitive answer. It wasn't until I began being more active with technology that I became interested in programming. I always had to have my older sister help me with things relating to technology, so I decided to finally learn so I can be independent when it comess to technology.
 
 ## I'm currently working on..
 > I have been studying different codes, trying to understand them. I want to be able to make the exact game I had always looked for.
