@@ -2,10 +2,11 @@
 
 # **Experience**
 #### ***Flint Development Center***
-October 2024 - January 2025
+*October 2024 - January 2025*
 #### ***MPC Flint Community Lab***
+*July 2024-August 2024*
 
-# Skills
+ Skills
 * Detail-oriented
 * Fast learner
 * Patient
@@ -19,6 +20,8 @@ October 2024 - January 2025
 
 ## **A little fun fact!**
 > I am a big fan of RPGs, and visual novels. I love the Final Fantasy series, as well as Kingdom Hearts series, and I love Stardew Valley. I am also a fan of the Danganronpa games, as I love mysteries. 
+
+
 
 
 If you have any questions, you can reach me here at: tierrakhaynes@gmail.com , https://www.linkedin.com/
